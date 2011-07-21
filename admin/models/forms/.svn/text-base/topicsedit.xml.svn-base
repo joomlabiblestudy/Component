@@ -1,0 +1,1 @@
+This is not used; the xml is set dynamically instead. See administrator/components/com_biblestudy/models/topicsedit.php function getForm()

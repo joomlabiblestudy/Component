@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/biblestudy/!svn/ver/1902/BibleStudy/Trunk/com_biblestudy/admin/install/sql/updates/mysql
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/biblestudy/!svn/ver/1543/BibleStudy/Trunk/com_biblestudy/admin/install/sql/updates/mysql/index.html
+END
+7.0.0.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/biblestudy/!svn/ver/1900/BibleStudy/Trunk/com_biblestudy/admin/install/sql/updates/mysql/7.0.0.sql
+END
+7.0.1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/biblestudy/!svn/ver/1902/BibleStudy/Trunk/com_biblestudy/admin/install/sql/updates/mysql/7.0.1.sql
+END
+7.1.0.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/biblestudy/!svn/ver/1901/BibleStudy/Trunk/com_biblestudy/admin/install/sql/updates/mysql/7.1.0.sql
+END

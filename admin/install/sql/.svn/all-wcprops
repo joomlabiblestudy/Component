@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/biblestudy/!svn/ver/1902/BibleStudy/Trunk/com_biblestudy/admin/install/sql
+END
+uninstall.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/biblestudy/!svn/ver/1586/BibleStudy/Trunk/com_biblestudy/admin/install/sql/uninstall.sql
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/biblestudy/!svn/ver/1474/BibleStudy/Trunk/com_biblestudy/admin/install/sql/index.html
+END
+jbs7.0.0.sql-Bakup
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/biblestudy/!svn/ver/1899/BibleStudy/Trunk/com_biblestudy/admin/install/sql/jbs7.0.0.sql-Bakup
+END
+install.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/biblestudy/!svn/ver/1894/BibleStudy/Trunk/com_biblestudy/admin/install/sql/install.sql
+END
+uninstall-dbtables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/biblestudy/!svn/ver/1627/BibleStudy/Trunk/com_biblestudy/admin/install/sql/uninstall-dbtables.sql
+END

@@ -1,0 +1,1 @@
+INSERT INTO #__bsms_install VALUES(7.0.1);
